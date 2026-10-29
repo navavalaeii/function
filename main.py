@@ -9,7 +9,7 @@ console = Console()
 questions=[
     ("what's the bestCMS?",["A wordpress","B:Joomla","C:Drupal","D: headless"],"A"),
     ("what's the best programming language ?",["A Python","B:JavaScript","C:Java","D:C++ "],"A"),
-    ("what's the best database ?",["A:MySQL ","B:PostgreSQL","C:MonoDB","D:SQL "],"B"),
+    ("what's the best database ?",["A:MySQL ","B:PostgreSQL","C:MonoDB","D:SQL "],"c"),
 
                             
 ]
